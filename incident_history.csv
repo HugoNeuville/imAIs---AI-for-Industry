@@ -1,0 +1,43 @@
+timestamp,machine_id,sensor,value,severity,diagnosis
+2026-01-01 04:02:00,MACHINE_01,energy_consumption,854.49,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 05:09:00,MACHINE_01,vibration,57.7826,HIGH,"Possible mechanical instability. Check bearings, alignment, and rotating components."
+2026-01-01 06:55:00,MACHINE_01,energy_consumption,857.203,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 10:35:00,MACHINE_01,energy_consumption,852.3903,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 11:46:00,MACHINE_01,vibration,68.0,CRITICAL,"Possible mechanical instability. Check bearings, alignment, and rotating components."
+2026-01-01 13:11:00,MACHINE_01,energy_consumption,852.7238,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 13:52:00,MACHINE_01,energy_consumption,943.0,CRITICAL,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 14:39:00,MACHINE_01,temperature,505.5239,HIGH,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 02:44:00,MACHINE_02,vibration,57.5344,HIGH,"Possible mechanical instability. Check bearings, alignment, and rotating components."
+2026-01-01 04:40:00,MACHINE_02,temperature,688.0,CRITICAL,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 06:51:00,MACHINE_02,pressure,8.1591,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 07:34:00,MACHINE_02,temperature,508.7587,HIGH,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 08:57:00,MACHINE_02,pressure,10.0,CRITICAL,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 11:05:00,MACHINE_02,temperature,798.0,CRITICAL,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 13:46:00,MACHINE_02,pressure,8.3099,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 15:57:00,MACHINE_02,temperature,733.0,CRITICAL,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 00:31:00,MACHINE_03,energy_consumption,871.7541,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 02:52:00,MACHINE_03,pressure,8.1183,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 04:28:00,MACHINE_03,energy_consumption,868.0,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 04:53:00,MACHINE_03,energy_consumption,908.0,CRITICAL,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 10:02:00,MACHINE_03,energy_consumption,957.0,CRITICAL,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 11:28:00,MACHINE_03,energy_consumption,859.3999,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 12:21:00,MACHINE_03,energy_consumption,852.5426,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 03:16:00,MACHINE_04,vibration,57.8706,HIGH,"Possible mechanical instability. Check bearings, alignment, and rotating components."
+2026-01-01 09:07:00,MACHINE_04,temperature,670.0,CRITICAL,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 09:53:00,MACHINE_04,temperature,509.1631,HIGH,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 14:04:00,MACHINE_04,temperature,773.0,CRITICAL,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 15:55:00,MACHINE_04,energy_consumption,851.3554,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 05:00:00,MACHINE_05,energy_consumption,909.0,CRITICAL,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 05:48:00,MACHINE_05,energy_consumption,858.6541,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 06:06:00,MACHINE_05,energy_consumption,869.1314,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 06:13:00,MACHINE_05,energy_consumption,887.0,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 06:24:00,MACHINE_05,pressure,8.4649,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 06:25:00,MACHINE_05,pressure,9.115,CRITICAL,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 06:46:00,MACHINE_05,pressure,8.1272,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 08:10:00,MACHINE_05,energy_consumption,855.1439,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 09:47:00,MACHINE_05,energy_consumption,855.5673,HIGH,Possible abnormal load or inefficiency. Check motor behavior and operating mode.
+2026-01-01 09:49:00,MACHINE_05,pressure,8.0901,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 11:33:00,MACHINE_05,pressure,8.2465,HIGH,"Possible pressure abnormality. Inspect valves, pipes, and regulation system."
+2026-01-01 11:54:00,MACHINE_05,temperature,512.5439,HIGH,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 12:58:00,MACHINE_05,temperature,648.0,CRITICAL,"Possible overheating. Check cooling system, load level, and lubrication."
+2026-01-01 16:25:00,MACHINE_05,vibration,57.8525,HIGH,"Possible mechanical instability. Check bearings, alignment, and rotating components."

@@ -1,0 +1,22 @@
+Vibration Monitoring Maintenance Procedure
+
+High vibration may indicate bearing wear, shaft misalignment, imbalance, loosened components, or rotating equipment degradation.
+
+Potential causes:
+- Bearing degradation
+- Shaft misalignment
+- Rotor imbalance
+- Mechanical looseness
+- Rotating component wear
+
+Recommended inspection steps:
+1. Inspect bearings for wear or overheating.
+2. Verify shaft alignment.
+3. Inspect rotating components and fixation points.
+4. Check for mechanical looseness or imbalance.
+5. Compare vibration levels with historical trends.
+6. Review recent maintenance operations.
+
+Recommended action:
+- If vibration increases progressively, schedule preventive maintenance.
+- If vibration becomes critical, stop equipment and inspect immediately.

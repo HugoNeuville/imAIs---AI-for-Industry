@@ -1,0 +1,22 @@
+Temperature Monitoring Maintenance Procedure
+
+High temperature may indicate overheating, insufficient cooling, excessive operational load, airflow obstruction, or lubrication degradation.
+
+Potential causes:
+- Cooling system malfunction
+- Insufficient airflow
+- Excessive machine load
+- Lubrication degradation
+- Friction increase in rotating components
+
+Recommended inspection steps:
+1. Inspect cooling system and airflow.
+2. Verify fan operation and ventilation conditions.
+3. Check lubrication levels and lubrication quality.
+4. Review recent operating load conditions.
+5. Inspect rotating components for excessive friction.
+6. Compare current temperature with historical baseline.
+
+Recommended action:
+- If temperature remains elevated, schedule maintenance inspection within 24 hours.
+- If temperature reaches critical levels, stop machine and inspect immediately.

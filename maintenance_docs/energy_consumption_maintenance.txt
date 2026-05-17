@@ -1,0 +1,22 @@
+Energy Consumption Monitoring Maintenance Procedure
+
+High energy consumption may indicate abnormal load, motor stress, inefficient operating mode, excessive friction, or mechanical resistance.
+
+Potential causes:
+- Motor overload
+- Mechanical resistance
+- Friction increase
+- Inefficient operating mode
+- Abnormal production conditions
+
+Recommended inspection steps:
+1. Review recent operating load conditions.
+2. Inspect motor temperature and vibration.
+3. Verify rotating component alignment.
+4. Check for excessive friction or resistance.
+5. Compare energy consumption with historical baseline.
+6. Review production operating conditions.
+
+Recommended action:
+- If energy consumption remains elevated, schedule maintenance review within 24 hours.
+- If energy consumption becomes critical, inspect motor system immediately.
