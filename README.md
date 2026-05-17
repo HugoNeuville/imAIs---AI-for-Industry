@@ -121,7 +121,7 @@ Then open the local URL displayed in the terminal.
 
 ### Dashboard Overview
 
-<img width="937" height="811" alt="dashboard_overview" src="https://github.com/user-attachments/assets/cf184580-b3d6-43d0-b93e-dcd2e1797499" />
+<img width="747" height="697" alt="dashboard_overview" src="https://github.com/user-attachments/assets/4e2cf1f8-c933-4339-8c30-c70e9ed84709" />
 
 ---
 
