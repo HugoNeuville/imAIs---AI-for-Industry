@@ -1,4 +1,4 @@
-# imAIs — AI for Industry
+# Industrial Monitoring AI System
 
 AI-powered industrial monitoring system combining anomaly detection, predictive maintenance, incident reporting, and a RAG-based maintenance chatbot.
 
